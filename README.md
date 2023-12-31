@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+  I'm freelance**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+  I’m currently learning **Vue.js, .NET Core, Django**
 
-💬 Ask me about **Web Development, Graphic Design [here](https://elyesmaatoug.com)**
+ Ask me about **Web Development, Graphic Design [here](https://elyesmaatoug.com)**
 
 
  </div>
