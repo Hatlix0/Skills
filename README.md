@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 
 
 <h3 align="center">A Web Developer And Graphic Design</h3>
@@ -8,7 +6,7 @@
 
 <div align="center">
  
-  I'm freelance**
+  I'm freelance
  
   I’m currently learning **Vue.js, .NET Core, Django**
 
